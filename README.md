@@ -7,3 +7,5 @@ This project leverages Tableau to analyze sales data for Discount Mart from 2016
 ## Objective:
 The goal of this project is to deliver actionable insights into Discount Mart's performance, enabling data-driven decision-making and improving strategic planning. The analysis resulted in a 15% improvement in data-driven strategies.
 
+## Dashboard
+![Dashboard 1 (1)](https://github.com/user-attachments/assets/dbb88a57-8dbc-469c-8831-29d8dfe0da1c)
